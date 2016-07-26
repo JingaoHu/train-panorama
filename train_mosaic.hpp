@@ -571,7 +571,7 @@ void Train_Mosaic::finetuned_mosaic()
 			j_pos += vFrameROI[k].cols;
 		}
 	}	
-	imwrite("/home/jingao/train_mosaic/train.bmp",dst);	
+	imwrite("train.bmp",dst);	
 
 	//关闭视频文件
 	capture.release();
