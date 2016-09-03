@@ -1,0 +1,1 @@
+/home/jingao/train-mosaic-project/record/CMakeFiles/main.dir
